@@ -53,9 +53,10 @@
 <hr/>
 <br/>
 <div align="center">
-  <img src="https://github.com/jbytecore/jbytecore/blob/output/github-snake-dark.svg)">
+    <img src="https://raw.githubusercontent.com/jbytecore/jbytecore/output/github-snake-dark.svg)">
 </div>
 <br/>
 <hr/>
+
 
 <img align="center" src=".github/img/github-header-banner-close.png"/>
