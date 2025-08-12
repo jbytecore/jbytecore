@@ -32,7 +32,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jbytecore&count_private=true&theme=dark&border_radius=5"/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=jbytecore&show_icons=true&theme=dark&rank_icon=github"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbytecore&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=jbytecore"/>
 </div>
 <br/>
 <hr/>
@@ -59,4 +58,5 @@
 <hr/>
 
 <img align="center" src=".github/img/github-header-banner-close.png"/>
+
 
